@@ -1,4 +1,4 @@
-"""Builds Report/REPORT.pdf from Report/REPORT.md using a locally installed Edge or Chrome.
+"""Builds Report/REPORT_Arshad.pdf from Report/REPORT.md using a locally installed Edge or Chrome.
 
 Run: python -m src.make_pdf
 
@@ -89,7 +89,7 @@ def main():
                 f"<div class='toc'><h2>Table of contents</h2><table>{rows}</table></div>"
                 f"{body_html}</body></html>")
 
-    target = os.path.abspath("Report/REPORT.pdf")
+    target = os.path.abspath("Report/REPORT_Arshad.pdf")
     render(page({}), target)                      # first pass: find the page of every heading
     texts = [squash(p.extract_text() or "") for p in PdfReader(target).pages]
     pages, start = {}, 2                          # the body starts after the title page and contents
@@ -101,7 +101,7 @@ def main():
                 start = number
                 break
     render(page(pages), target)                   # second pass: contents with page numbers
-    print("wrote Report/REPORT.pdf,", len(texts), "pages,", len(pages), "of", len(headings), "headings located")
+    print("wrote Report/REPORT_Arshad.pdf,", len(texts), "pages,", len(pages), "of", len(headings), "headings located")
 
 
 if __name__ == "__main__":

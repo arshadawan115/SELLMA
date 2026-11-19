@@ -1,7 +1,7 @@
 # Can a small weight edit keep a language model in Swedish?
 
 A test of Weight-Space Programming for SE.LLMA. Candidate assignment, Arshad Awan, 19 November 2026.
-The longer version of this note is in [Report/REPORT.pdf](Report/REPORT.pdf).
+The longer version of this note is in [Report/REPORT_Arshad.pdf](Report/REPORT_Arshad.pdf).
 
 ## Research note
 
