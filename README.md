@@ -36,6 +36,11 @@ edits or a plain instruction work as well, or if correctness falls.
 
 - **Model:** `utter-project/EuroLLM-1.7B-Instruct`, an openly licensed (Apache 2.0) model funded by the
   European Union that lists Swedish as a supported language. It runs offline on a laptop CPU.
+  I chose it with SE.LLMA's goals in mind: control over data, transparency and traceability, less
+  reliance on foreign models that may not meet national security and quality requirements, and a
+  way to acknowledge those who contribute data (public sector organisations, Swedish authors,
+  publishers, journalists and news media companies). An open model that can be inspected and run
+  locally is the starting point for all of these.
 - **Behaviour:** a pilot showed that the model answers Swedish questions in Swedish, except when the
   system prompt is in English. Then about one reply in six comes back in English.
 - **Targeted edit:** in layer 14, one MLP neuron that fires at a nearly constant level gets a fixed

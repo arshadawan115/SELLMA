@@ -143,7 +143,15 @@ designed the edits. It worked in two modes, which the assignment asks to keep ap
 
 ## 5. Choice of model
 
-I chose `utter-project/EuroLLM-1.7B-Instruct` for four reasons.
+I chose the model with SE.LLMA's own goals in mind. The project wants control over data,
+transparency and traceability, and less reliance on foreign models that may not meet national
+security and quality requirements. It also wants a way to acknowledge those who contribute data:
+public sector organisations, Swedish authors, publishers, journalists and news media companies.
+A model that can be opened, inspected and run on our own machines is the natural starting point
+for both. Without that access there is no control, and no way to trace what a model was built from
+or to credit the people behind the data.
+
+With that in mind I chose `utter-project/EuroLLM-1.7B-Instruct`, for four reasons.
 
 - **European origin and funding.** It was built by European universities and companies, funded by the
   European Union and trained on a European supercomputer. SE.LLMA wants to reduce reliance on foreign
