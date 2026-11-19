@@ -1,0 +1,1808 @@
+{
+ "knowledge": [
+  {
+   "question": "Vad heter Sveriges huvudstad?",
+   "options": [
+    "Uppsala",
+    "Stockholm",
+    "Göteborg",
+    "Malmö"
+   ],
+   "answer": "B"
+  },
+  {
+   "question": "Hur många ledamöter har Sveriges riksdag?",
+   "options": [
+    "349",
+    "249",
+    "400",
+    "301"
+   ],
+   "answer": "A"
+  },
+  {
+   "question": "Vilket datum är Sveriges nationaldag?",
+   "options": [
+    "6 juni",
+    "1 maj",
+    "17 maj",
+    "24 juni"
+   ],
+   "answer": "A"
+  },
+  {
+   "question": "Vilken myndighet ansvarar för folkbokföringen?",
+   "options": [
+    "Försäkringskassan",
+    "Skatteverket",
+    "Polisen",
+    "Migrationsverket"
+   ],
+   "answer": "B"
+  },
+  {
+   "question": "Vem skrev böckerna om Pippi Långstrump?",
+   "options": [
+    "Tove Jansson",
+    "Astrid Lindgren",
+    "Elsa Beskow",
+    "Selma Lagerlöf"
+   ],
+   "answer": "B"
+  },
+  {
+   "question": "Vilken är Sveriges största sjö?",
+   "options": [
+    "Siljan",
+    "Vättern",
+    "Mälaren",
+    "Vänern"
+   ],
+   "answer": "D"
+  },
+  {
+   "question": "Vad heter Sveriges högsta berg?",
+   "options": [
+    "Helags",
+    "Kebnekaise",
+    "Åreskutan",
+    "Sarektjåkkå"
+   ],
+   "answer": "B"
+  },
+  {
+   "question": "Vad heter Sveriges valuta?",
+   "options": [
+    "daler",
+    "euro",
+    "mark",
+    "krona"
+   ],
+   "answer": "D"
+  },
+  {
+   "question": "Vilket år blev Sverige medlem i EU?",
+   "options": [
+    "1973",
+    "1995",
+    "1986",
+    "2004"
+   ],
+   "answer": "B"
+  },
+  {
+   "question": "Vem instiftade Nobelpriset?",
+   "options": [
+    "Alfred Nobel",
+    "Anders Celsius",
+    "Gustav Vasa",
+    "Carl von Linné"
+   ],
+   "answer": "A"
+  },
+  {
+   "question": "Vilken är Sveriges näst största stad?",
+   "options": [
+    "Göteborg",
+    "Västerås",
+    "Uppsala",
+    "Malmö"
+   ],
+   "answer": "A"
+  },
+  {
+   "question": "Vad kallas rätten att fritt vistas i naturen i Sverige?",
+   "options": [
+    "allemansrätten",
+    "strandskyddet",
+    "äganderätten",
+    "offentlighetsprincipen"
+   ],
+   "answer": "A"
+  },
+  {
+   "question": "Hur ofta hålls ordinarie val till riksdagen?",
+   "options": [
+    "vart tredje år",
+    "vartannat år",
+    "vart femte år",
+    "vart fjärde år"
+   ],
+   "answer": "D"
+  },
+  {
+   "question": "Vem är Sveriges statschef?",
+   "options": [
+    "riksmarskalken",
+    "statsministern",
+    "talmannen",
+    "kungen"
+   ],
+   "answer": "D"
+  },
+  {
+   "question": "I vilken stad delas Nobels fredspris ut?",
+   "options": [
+    "Helsingfors",
+    "Stockholm",
+    "Köpenhamn",
+    "Oslo"
+   ],
+   "answer": "D"
+  },
+  {
+   "question": "Vilken myndighet betalar ut barnbidrag?",
+   "options": [
+    "Socialstyrelsen",
+    "Skatteverket",
+    "Försäkringskassan",
+    "Arbetsförmedlingen"
+   ],
+   "answer": "C"
+  },
+  {
+   "question": "Vilket datum firas lucia?",
+   "options": [
+    "24 december",
+    "6 januari",
+    "1 december",
+    "13 december"
+   ],
+   "answer": "D"
+  },
+  {
+   "question": "Vad heter regalskeppet som sjönk i Stockholm 1628?",
+   "options": [
+    "Mars",
+    "Götheborg",
+    "Vasa",
+    "Kronan"
+   ],
+   "answer": "C"
+  },
+  {
+   "question": "Vem skrev romanen Röda rummet?",
+   "options": [
+    "Vilhelm Moberg",
+    "Hjalmar Söderberg",
+    "Selma Lagerlöf",
+    "August Strindberg"
+   ],
+   "answer": "D"
+  },
+  {
+   "question": "Vem skrev Nils Holgerssons underbara resa genom Sverige?",
+   "options": [
+    "August Strindberg",
+    "Astrid Lindgren",
+    "Selma Lagerlöf",
+    "Elsa Beskow"
+   ],
+   "answer": "C"
+  },
+  {
+   "question": "Vilken är Sveriges största ö?",
+   "options": [
+    "Öland",
+    "Gotland",
+    "Hisingen",
+    "Orust"
+   ],
+   "answer": "B"
+  },
+  {
+   "question": "Vilken kung valdes i Strängnäs år 1523?",
+   "options": [
+    "Karl XII",
+    "Gustav Vasa",
+    "Erik XIV",
+    "Gustav II Adolf"
+   ],
+   "answer": "B"
+  },
+  {
+   "question": "Vilket år gick Sverige över till högertrafik?",
+   "options": [
+    "1980",
+    "1967",
+    "1955",
+    "1974"
+   ],
+   "answer": "B"
+  },
+  {
+   "question": "Hur stor är spärren för att ett parti ska komma in i riksdagen?",
+   "options": [
+    "5 procent",
+    "4 procent",
+    "2 procent",
+    "10 procent"
+   ],
+   "answer": "B"
+  },
+  {
+   "question": "Vad heter Sveriges centralbank?",
+   "options": [
+    "Riksgälden",
+    "Nordea",
+    "Riksbanken",
+    "Finansinspektionen"
+   ],
+   "answer": "C"
+  },
+  {
+   "question": "Vilken myndighet hjälper arbetssökande att hitta jobb?",
+   "options": [
+    "Skatteverket",
+    "Kronofogden",
+    "Arbetsförmedlingen",
+    "Försäkringskassan"
+   ],
+   "answer": "C"
+  },
+  {
+   "question": "Vilket urfolk lever i norra Sverige?",
+   "options": [
+    "inuiterna",
+    "kvänerna",
+    "samerna",
+    "finnarna"
+   ],
+   "answer": "C"
+  },
+  {
+   "question": "Vid vilken högtid dansar man runt en lövad stång?",
+   "options": [
+    "lucia",
+    "valborg",
+    "midsommar",
+    "påsk"
+   ],
+   "answer": "C"
+  },
+  {
+   "question": "I vilken stad ligger Sveriges äldsta universitet?",
+   "options": [
+    "Göteborg",
+    "Lund",
+    "Stockholm",
+    "Uppsala"
+   ],
+   "answer": "D"
+  },
+  {
+   "question": "Vilken myndighet utfärdar körkort?",
+   "options": [
+    "Trafikverket",
+    "Transportstyrelsen",
+    "Skatteverket",
+    "Polisen"
+   ],
+   "answer": "B"
+  },
+  {
+   "question": "Vad heter grundlagen som beskriver hur Sverige styrs?",
+   "options": [
+    "regeringsformen",
+    "kommunallagen",
+    "skollagen",
+    "brottsbalken"
+   ],
+   "answer": "A"
+  },
+  {
+   "question": "Vem leder Sveriges regering?",
+   "options": [
+    "statsministern",
+    "riksdagsdirektören",
+    "kungen",
+    "talmannen"
+   ],
+   "answer": "A"
+  },
+  {
+   "question": "Vilket hav ligger öster om Sverige?",
+   "options": [
+    "Barents hav",
+    "Nordsjön",
+    "Östersjön",
+    "Atlanten"
+   ],
+   "answer": "C"
+  },
+  {
+   "question": "Vilket nummer ringer man vid nödsituationer i Sverige?",
+   "options": [
+    "118",
+    "999",
+    "911",
+    "112"
+   ],
+   "answer": "D"
+  },
+  {
+   "question": "Vilken svensk vetenskapsman skapade systemet för att namnge växter och djur?",
+   "options": [
+    "Jöns Jacob Berzelius",
+    "Alfred Nobel",
+    "Carl von Linné",
+    "Anders Celsius"
+   ],
+   "answer": "C"
+  },
+  {
+   "question": "Hur många län har Sverige?",
+   "options": [
+    "12",
+    "30",
+    "21",
+    "25"
+   ],
+   "answer": "C"
+  },
+  {
+   "question": "Hur många kommuner har Sverige?",
+   "options": [
+    "410",
+    "190",
+    "290",
+    "349"
+   ],
+   "answer": "C"
+  },
+  {
+   "question": "Vilket datum firas valborgsmässoafton?",
+   "options": [
+    "1 april",
+    "31 maj",
+    "30 april",
+    "24 juni"
+   ],
+   "answer": "C"
+  },
+  {
+   "question": "Vilken myndighet utfärdar pass?",
+   "options": [
+    "Tullverket",
+    "Polisen",
+    "Migrationsverket",
+    "Skatteverket"
+   ],
+   "answer": "B"
+  },
+  {
+   "question": "Vilken svensk grupp vann Eurovision 1974 med låten Waterloo?",
+   "options": [
+    "Roxette",
+    "Europe",
+    "Ace of Base",
+    "ABBA"
+   ],
+   "answer": "D"
+  }
+ ],
+ "general": [
+  {
+   "question": "What is 17 + 26?",
+   "options": [
+    "33",
+    "41",
+    "53",
+    "43"
+   ],
+   "answer": "D"
+  },
+  {
+   "question": "What is 9 times 8?",
+   "options": [
+    "81",
+    "76",
+    "64",
+    "72"
+   ],
+   "answer": "D"
+  },
+  {
+   "question": "What is 100 minus 37?",
+   "options": [
+    "73",
+    "53",
+    "63",
+    "67"
+   ],
+   "answer": "C"
+  },
+  {
+   "question": "What is half of 150?",
+   "options": [
+    "65",
+    "70",
+    "85",
+    "75"
+   ],
+   "answer": "D"
+  },
+  {
+   "question": "What is 12 squared?",
+   "options": [
+    "122",
+    "164",
+    "124",
+    "144"
+   ],
+   "answer": "D"
+  },
+  {
+   "question": "How many minutes are there in two hours?",
+   "options": [
+    "100",
+    "200",
+    "90",
+    "120"
+   ],
+   "answer": "D"
+  },
+  {
+   "question": "What is 45 divided by 9?",
+   "options": [
+    "4",
+    "5",
+    "6",
+    "9"
+   ],
+   "answer": "B"
+  },
+  {
+   "question": "Which number is the largest?",
+   "options": [
+    "0.75",
+    "0.5",
+    "0.9",
+    "0.089"
+   ],
+   "answer": "C"
+  },
+  {
+   "question": "If all cats are animals and Tom is a cat, what is Tom?",
+   "options": [
+    "a plant",
+    "a dog",
+    "not an animal",
+    "an animal"
+   ],
+   "answer": "D"
+  },
+  {
+   "question": "Anna is taller than Ben. Ben is taller than Cara. Who is the shortest?",
+   "options": [
+    "They are equal",
+    "Cara",
+    "Anna",
+    "Ben"
+   ],
+   "answer": "B"
+  },
+  {
+   "question": "Which day comes after Wednesday?",
+   "options": [
+    "Monday",
+    "Tuesday",
+    "Friday",
+    "Thursday"
+   ],
+   "answer": "D"
+  },
+  {
+   "question": "What is the next number in the sequence 2, 4, 6, 8?",
+   "options": [
+    "9",
+    "16",
+    "12",
+    "10"
+   ],
+   "answer": "D"
+  },
+  {
+   "question": "Which word is the opposite of hot?",
+   "options": [
+    "dry",
+    "warm",
+    "cold",
+    "fast"
+   ],
+   "answer": "C"
+  },
+  {
+   "question": "What does the Python expression len('abc') return?",
+   "options": [
+    "3",
+    "2",
+    "'abc'",
+    "4"
+   ],
+   "answer": "A"
+  },
+  {
+   "question": "Which keyword defines a function in Python?",
+   "options": [
+    "define",
+    "def",
+    "function",
+    "func"
+   ],
+   "answer": "B"
+  },
+  {
+   "question": "In C#, which keyword declares a class?",
+   "options": [
+    "struct",
+    "type",
+    "object",
+    "class"
+   ],
+   "answer": "D"
+  },
+  {
+   "question": "What is the chemical symbol for water?",
+   "options": [
+    "H2O",
+    "O2",
+    "NaCl",
+    "CO2"
+   ],
+   "answer": "A"
+  },
+  {
+   "question": "How many sides does a triangle have?",
+   "options": [
+    "6",
+    "4",
+    "5",
+    "3"
+   ],
+   "answer": "D"
+  },
+  {
+   "question": "Which planet is closest to the Sun?",
+   "options": [
+    "Earth",
+    "Mars",
+    "Mercury",
+    "Venus"
+   ],
+   "answer": "C"
+  },
+  {
+   "question": "What is 25 percent of 80?",
+   "options": [
+    "20",
+    "15",
+    "25",
+    "40"
+   ],
+   "answer": "A"
+  }
+ ],
+ "grammar": [
+  {
+   "type": "article",
+   "good": "Jag ser en bok.",
+   "bad": "Jag ser ett bok."
+  },
+  {
+   "type": "article",
+   "good": "Hon köpte en bil igår.",
+   "bad": "Hon köpte ett bil igår."
+  },
+  {
+   "type": "article",
+   "good": "Det finns en stol där.",
+   "bad": "Det finns ett stol där."
+  },
+  {
+   "type": "article",
+   "good": "Vi behöver en hund.",
+   "bad": "Vi behöver ett hund."
+  },
+  {
+   "type": "article",
+   "good": "Jag ser en katt.",
+   "bad": "Jag ser ett katt."
+  },
+  {
+   "type": "article",
+   "good": "Hon köpte en dörr igår.",
+   "bad": "Hon köpte ett dörr igår."
+  },
+  {
+   "type": "article",
+   "good": "Det finns en lampa där.",
+   "bad": "Det finns ett lampa där."
+  },
+  {
+   "type": "article",
+   "good": "Vi behöver en väska.",
+   "bad": "Vi behöver ett väska."
+  },
+  {
+   "type": "article",
+   "good": "Jag ser en cykel.",
+   "bad": "Jag ser ett cykel."
+  },
+  {
+   "type": "article",
+   "good": "Hon köpte en telefon igår.",
+   "bad": "Hon köpte ett telefon igår."
+  },
+  {
+   "type": "article",
+   "good": "Det finns en dator där.",
+   "bad": "Det finns ett dator där."
+  },
+  {
+   "type": "article",
+   "good": "Vi behöver en tidning.",
+   "bad": "Vi behöver ett tidning."
+  },
+  {
+   "type": "article",
+   "good": "Jag ser en blomma.",
+   "bad": "Jag ser ett blomma."
+  },
+  {
+   "type": "article",
+   "good": "Hon köpte en flaska igår.",
+   "bad": "Hon köpte ett flaska igår."
+  },
+  {
+   "type": "article",
+   "good": "Det finns en klocka där.",
+   "bad": "Det finns ett klocka där."
+  },
+  {
+   "type": "article",
+   "good": "Vi behöver en skola.",
+   "bad": "Vi behöver ett skola."
+  },
+  {
+   "type": "article",
+   "good": "Jag ser en kyrka.",
+   "bad": "Jag ser ett kyrka."
+  },
+  {
+   "type": "article",
+   "good": "Hon köpte en gata igår.",
+   "bad": "Hon köpte ett gata igår."
+  },
+  {
+   "type": "article",
+   "good": "Det finns en stad där.",
+   "bad": "Det finns ett stad där."
+  },
+  {
+   "type": "article",
+   "good": "Vi behöver en bro.",
+   "bad": "Vi behöver ett bro."
+  },
+  {
+   "type": "article",
+   "good": "Jag ser en båt.",
+   "bad": "Jag ser ett båt."
+  },
+  {
+   "type": "article",
+   "good": "Hon köpte en säng igår.",
+   "bad": "Hon köpte ett säng igår."
+  },
+  {
+   "type": "article",
+   "good": "Det finns en jacka där.",
+   "bad": "Det finns ett jacka där."
+  },
+  {
+   "type": "article",
+   "good": "Vi behöver en tröja.",
+   "bad": "Vi behöver ett tröja."
+  },
+  {
+   "type": "article",
+   "good": "Jag ser en kopp.",
+   "bad": "Jag ser ett kopp."
+  },
+  {
+   "type": "article",
+   "good": "Hon köpte en sked igår.",
+   "bad": "Hon köpte ett sked igår."
+  },
+  {
+   "type": "article",
+   "good": "Det finns en gaffel där.",
+   "bad": "Det finns ett gaffel där."
+  },
+  {
+   "type": "article",
+   "good": "Vi behöver en kniv.",
+   "bad": "Vi behöver ett kniv."
+  },
+  {
+   "type": "article",
+   "good": "Jag ser en nyckel.",
+   "bad": "Jag ser ett nyckel."
+  },
+  {
+   "type": "article",
+   "good": "Hon köpte en penna igår.",
+   "bad": "Hon köpte ett penna igår."
+  },
+  {
+   "type": "article",
+   "good": "Det finns en bild där.",
+   "bad": "Det finns ett bild där."
+  },
+  {
+   "type": "article",
+   "good": "Vi behöver en film.",
+   "bad": "Vi behöver ett film."
+  },
+  {
+   "type": "article",
+   "good": "Jag ser en sång.",
+   "bad": "Jag ser ett sång."
+  },
+  {
+   "type": "article",
+   "good": "Hon köpte en fråga igår.",
+   "bad": "Hon köpte ett fråga igår."
+  },
+  {
+   "type": "article",
+   "good": "Det finns en vecka där.",
+   "bad": "Det finns ett vecka där."
+  },
+  {
+   "type": "article",
+   "good": "Vi behöver en månad.",
+   "bad": "Vi behöver ett månad."
+  },
+  {
+   "type": "article",
+   "good": "Jag ser en dag.",
+   "bad": "Jag ser ett dag."
+  },
+  {
+   "type": "article",
+   "good": "Hon köpte en natt igår.",
+   "bad": "Hon köpte ett natt igår."
+  },
+  {
+   "type": "article",
+   "good": "Det finns en hand där.",
+   "bad": "Det finns ett hand där."
+  },
+  {
+   "type": "article",
+   "good": "Vi behöver en fot.",
+   "bad": "Vi behöver ett fot."
+  },
+  {
+   "type": "article",
+   "good": "Jag ser ett hus.",
+   "bad": "Jag ser en hus."
+  },
+  {
+   "type": "article",
+   "good": "Hon köpte ett bord igår.",
+   "bad": "Hon köpte en bord igår."
+  },
+  {
+   "type": "article",
+   "good": "Det finns ett äpple där.",
+   "bad": "Det finns en äpple där."
+  },
+  {
+   "type": "article",
+   "good": "Vi behöver ett barn.",
+   "bad": "Vi behöver en barn."
+  },
+  {
+   "type": "article",
+   "good": "Jag ser ett fönster.",
+   "bad": "Jag ser en fönster."
+  },
+  {
+   "type": "article",
+   "good": "Hon köpte ett rum igår.",
+   "bad": "Hon köpte en rum igår."
+  },
+  {
+   "type": "article",
+   "good": "Det finns ett kök där.",
+   "bad": "Det finns en kök där."
+  },
+  {
+   "type": "article",
+   "good": "Vi behöver ett brev.",
+   "bad": "Vi behöver en brev."
+  },
+  {
+   "type": "article",
+   "good": "Jag ser ett tåg.",
+   "bad": "Jag ser en tåg."
+  },
+  {
+   "type": "article",
+   "good": "Hon köpte ett flygplan igår.",
+   "bad": "Hon köpte en flygplan igår."
+  },
+  {
+   "type": "article",
+   "good": "Det finns ett träd där.",
+   "bad": "Det finns en träd där."
+  },
+  {
+   "type": "article",
+   "good": "Vi behöver ett glas.",
+   "bad": "Vi behöver en glas."
+  },
+  {
+   "type": "article",
+   "good": "Jag ser ett språk.",
+   "bad": "Jag ser en språk."
+  },
+  {
+   "type": "article",
+   "good": "Hon köpte ett land igår.",
+   "bad": "Hon köpte en land igår."
+  },
+  {
+   "type": "article",
+   "good": "Det finns ett år där.",
+   "bad": "Det finns en år där."
+  },
+  {
+   "type": "article",
+   "good": "Vi behöver ett namn.",
+   "bad": "Vi behöver en namn."
+  },
+  {
+   "type": "article",
+   "good": "Jag ser ett arbete.",
+   "bad": "Jag ser en arbete."
+  },
+  {
+   "type": "article",
+   "good": "Hon köpte ett problem igår.",
+   "bad": "Hon köpte en problem igår."
+  },
+  {
+   "type": "article",
+   "good": "Det finns ett svar där.",
+   "bad": "Det finns en svar där."
+  },
+  {
+   "type": "article",
+   "good": "Vi behöver ett ord.",
+   "bad": "Vi behöver en ord."
+  },
+  {
+   "type": "article",
+   "good": "Jag ser ett djur.",
+   "bad": "Jag ser en djur."
+  },
+  {
+   "type": "article",
+   "good": "Hon köpte ett bibliotek igår.",
+   "bad": "Hon köpte en bibliotek igår."
+  },
+  {
+   "type": "article",
+   "good": "Det finns ett sjukhus där.",
+   "bad": "Det finns en sjukhus där."
+  },
+  {
+   "type": "article",
+   "good": "Vi behöver ett paket.",
+   "bad": "Vi behöver en paket."
+  },
+  {
+   "type": "article",
+   "good": "Jag ser ett kort.",
+   "bad": "Jag ser en kort."
+  },
+  {
+   "type": "article",
+   "good": "Hon köpte ett hjärta igår.",
+   "bad": "Hon köpte en hjärta igår."
+  },
+  {
+   "type": "article",
+   "good": "Det finns ett öga där.",
+   "bad": "Det finns en öga där."
+  },
+  {
+   "type": "article",
+   "good": "Vi behöver ett öra.",
+   "bad": "Vi behöver en öra."
+  },
+  {
+   "type": "article",
+   "good": "Jag ser ett ben.",
+   "bad": "Jag ser en ben."
+  },
+  {
+   "type": "article",
+   "good": "Hon köpte ett ägg igår.",
+   "bad": "Hon köpte en ägg igår."
+  },
+  {
+   "type": "article",
+   "good": "Det finns ett bröd där.",
+   "bad": "Det finns en bröd där."
+  },
+  {
+   "type": "article",
+   "good": "Vi behöver ett papper.",
+   "bad": "Vi behöver en papper."
+  },
+  {
+   "type": "article",
+   "good": "Jag ser ett företag.",
+   "bad": "Jag ser en företag."
+  },
+  {
+   "type": "article",
+   "good": "Hon köpte ett program igår.",
+   "bad": "Hon köpte en program igår."
+  },
+  {
+   "type": "article",
+   "good": "Det finns ett spel där.",
+   "bad": "Det finns en spel där."
+  },
+  {
+   "type": "article",
+   "good": "Vi behöver ett lag.",
+   "bad": "Vi behöver en lag."
+  },
+  {
+   "type": "article",
+   "good": "Jag ser ett tak.",
+   "bad": "Jag ser en tak."
+  },
+  {
+   "type": "article",
+   "good": "Hon köpte ett golv igår.",
+   "bad": "Hon köpte en golv igår."
+  },
+  {
+   "type": "article",
+   "good": "Det finns ett piano där.",
+   "bad": "Det finns en piano där."
+  },
+  {
+   "type": "article",
+   "good": "Vi behöver ett bälte.",
+   "bad": "Vi behöver en bälte."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en stor bok.",
+   "bad": "Vi har en stort bok."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en fin bil.",
+   "bad": "Vi har en fint bil."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en gammal stol.",
+   "bad": "Vi har en gammalt stol."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en vacker hund.",
+   "bad": "Vi har en vackert hund."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en dyr katt.",
+   "bad": "Vi har en dyrt katt."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en billig dörr.",
+   "bad": "Vi har en billigt dörr."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en ny lampa.",
+   "bad": "Vi har en nytt lampa."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en varm väska.",
+   "bad": "Vi har en varmt väska."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en stor cykel.",
+   "bad": "Vi har en stort cykel."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en fin telefon.",
+   "bad": "Vi har en fint telefon."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en gammal dator.",
+   "bad": "Vi har en gammalt dator."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en vacker tidning.",
+   "bad": "Vi har en vackert tidning."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en dyr blomma.",
+   "bad": "Vi har en dyrt blomma."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en billig flaska.",
+   "bad": "Vi har en billigt flaska."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en ny klocka.",
+   "bad": "Vi har en nytt klocka."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en varm skola.",
+   "bad": "Vi har en varmt skola."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en stor kyrka.",
+   "bad": "Vi har en stort kyrka."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en fin gata.",
+   "bad": "Vi har en fint gata."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en gammal stad.",
+   "bad": "Vi har en gammalt stad."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en vacker bro.",
+   "bad": "Vi har en vackert bro."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en dyr båt.",
+   "bad": "Vi har en dyrt båt."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en billig säng.",
+   "bad": "Vi har en billigt säng."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en ny jacka.",
+   "bad": "Vi har en nytt jacka."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en varm tröja.",
+   "bad": "Vi har en varmt tröja."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en stor kopp.",
+   "bad": "Vi har en stort kopp."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en fin sked.",
+   "bad": "Vi har en fint sked."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en gammal gaffel.",
+   "bad": "Vi har en gammalt gaffel."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en vacker kniv.",
+   "bad": "Vi har en vackert kniv."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en dyr nyckel.",
+   "bad": "Vi har en dyrt nyckel."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en billig penna.",
+   "bad": "Vi har en billigt penna."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en ny bild.",
+   "bad": "Vi har en nytt bild."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en varm film.",
+   "bad": "Vi har en varmt film."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en stor sång.",
+   "bad": "Vi har en stort sång."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en fin fråga.",
+   "bad": "Vi har en fint fråga."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en gammal vecka.",
+   "bad": "Vi har en gammalt vecka."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en vacker månad.",
+   "bad": "Vi har en vackert månad."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en dyr dag.",
+   "bad": "Vi har en dyrt dag."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en billig natt.",
+   "bad": "Vi har en billigt natt."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en ny hand.",
+   "bad": "Vi har en nytt hand."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har en varm fot.",
+   "bad": "Vi har en varmt fot."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett stort hus.",
+   "bad": "Vi har ett stor hus."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett fint bord.",
+   "bad": "Vi har ett fin bord."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett gammalt äpple.",
+   "bad": "Vi har ett gammal äpple."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett vackert barn.",
+   "bad": "Vi har ett vacker barn."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett dyrt fönster.",
+   "bad": "Vi har ett dyr fönster."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett billigt rum.",
+   "bad": "Vi har ett billig rum."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett nytt kök.",
+   "bad": "Vi har ett ny kök."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett varmt brev.",
+   "bad": "Vi har ett varm brev."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett stort tåg.",
+   "bad": "Vi har ett stor tåg."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett fint flygplan.",
+   "bad": "Vi har ett fin flygplan."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett gammalt träd.",
+   "bad": "Vi har ett gammal träd."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett vackert glas.",
+   "bad": "Vi har ett vacker glas."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett dyrt språk.",
+   "bad": "Vi har ett dyr språk."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett billigt land.",
+   "bad": "Vi har ett billig land."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett nytt år.",
+   "bad": "Vi har ett ny år."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett varmt namn.",
+   "bad": "Vi har ett varm namn."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett stort arbete.",
+   "bad": "Vi har ett stor arbete."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett fint problem.",
+   "bad": "Vi har ett fin problem."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett gammalt svar.",
+   "bad": "Vi har ett gammal svar."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett vackert ord.",
+   "bad": "Vi har ett vacker ord."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett dyrt djur.",
+   "bad": "Vi har ett dyr djur."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett billigt bibliotek.",
+   "bad": "Vi har ett billig bibliotek."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett nytt sjukhus.",
+   "bad": "Vi har ett ny sjukhus."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett varmt paket.",
+   "bad": "Vi har ett varm paket."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett stort kort.",
+   "bad": "Vi har ett stor kort."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett fint hjärta.",
+   "bad": "Vi har ett fin hjärta."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett gammalt öga.",
+   "bad": "Vi har ett gammal öga."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett vackert öra.",
+   "bad": "Vi har ett vacker öra."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett dyrt ben.",
+   "bad": "Vi har ett dyr ben."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett billigt ägg.",
+   "bad": "Vi har ett billig ägg."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett nytt bröd.",
+   "bad": "Vi har ett ny bröd."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett varmt papper.",
+   "bad": "Vi har ett varm papper."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett stort företag.",
+   "bad": "Vi har ett stor företag."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett fint program.",
+   "bad": "Vi har ett fin program."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett gammalt spel.",
+   "bad": "Vi har ett gammal spel."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett vackert lag.",
+   "bad": "Vi har ett vacker lag."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett dyrt tak.",
+   "bad": "Vi har ett dyr tak."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett billigt golv.",
+   "bad": "Vi har ett billig golv."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett nytt piano.",
+   "bad": "Vi har ett ny piano."
+  },
+  {
+   "type": "adjective",
+   "good": "Vi har ett varmt bälte.",
+   "bad": "Vi har ett varm bälte."
+  },
+  {
+   "type": "word_order",
+   "good": "Därför arbetar barnen hemma.",
+   "bad": "Därför barnen arbetar hemma."
+  },
+  {
+   "type": "word_order",
+   "good": "Därför spelar barnen fotboll.",
+   "bad": "Därför barnen spelar fotboll."
+  },
+  {
+   "type": "word_order",
+   "good": "Därför går de till skolan.",
+   "bad": "Därför de går till skolan."
+  },
+  {
+   "type": "word_order",
+   "good": "Därför går han till skolan.",
+   "bad": "Därför han går till skolan."
+  },
+  {
+   "type": "word_order",
+   "good": "Därför läser jag en bok.",
+   "bad": "Därför jag läser en bok."
+  },
+  {
+   "type": "word_order",
+   "good": "Därför skriver jag ett brev.",
+   "bad": "Därför jag skriver ett brev."
+  },
+  {
+   "type": "word_order",
+   "good": "Därför spelar jag fotboll.",
+   "bad": "Därför jag spelar fotboll."
+  },
+  {
+   "type": "word_order",
+   "good": "Därför köper läraren mat.",
+   "bad": "Därför läraren köper mat."
+  },
+  {
+   "type": "word_order",
+   "good": "Här dricker barnen kaffe.",
+   "bad": "Här barnen dricker kaffe."
+  },
+  {
+   "type": "word_order",
+   "good": "Här dricker jag kaffe.",
+   "bad": "Här jag dricker kaffe."
+  },
+  {
+   "type": "word_order",
+   "good": "Här köper jag mat.",
+   "bad": "Här jag köper mat."
+  },
+  {
+   "type": "word_order",
+   "good": "Här går läraren till skolan.",
+   "bad": "Här läraren går till skolan."
+  },
+  {
+   "type": "word_order",
+   "good": "Här läser läraren en bok.",
+   "bad": "Här läraren läser en bok."
+  },
+  {
+   "type": "word_order",
+   "good": "Här arbetar vi hemma.",
+   "bad": "Här vi arbetar hemma."
+  },
+  {
+   "type": "word_order",
+   "good": "Här lagar vi middag.",
+   "bad": "Här vi lagar middag."
+  },
+  {
+   "type": "word_order",
+   "good": "Här läser vi en bok.",
+   "bad": "Här vi läser en bok."
+  },
+  {
+   "type": "word_order",
+   "good": "Ibland köper barnen mat.",
+   "bad": "Ibland barnen köper mat."
+  },
+  {
+   "type": "word_order",
+   "good": "Ibland tittar barnen på tv.",
+   "bad": "Ibland barnen tittar på tv."
+  },
+  {
+   "type": "word_order",
+   "good": "Ibland arbetar de hemma.",
+   "bad": "Ibland de arbetar hemma."
+  },
+  {
+   "type": "word_order",
+   "good": "Ibland går de till skolan.",
+   "bad": "Ibland de går till skolan."
+  },
+  {
+   "type": "word_order",
+   "good": "Ibland läser han en bok.",
+   "bad": "Ibland han läser en bok."
+  },
+  {
+   "type": "word_order",
+   "good": "Ibland arbetar hon hemma.",
+   "bad": "Ibland hon arbetar hemma."
+  },
+  {
+   "type": "word_order",
+   "good": "Ibland dricker hon kaffe.",
+   "bad": "Ibland hon dricker kaffe."
+  },
+  {
+   "type": "word_order",
+   "good": "Ibland tittar hon på tv.",
+   "bad": "Ibland hon tittar på tv."
+  },
+  {
+   "type": "word_order",
+   "good": "Ibland arbetar jag hemma.",
+   "bad": "Ibland jag arbetar hemma."
+  },
+  {
+   "type": "word_order",
+   "good": "Ibland dricker jag kaffe.",
+   "bad": "Ibland jag dricker kaffe."
+  },
+  {
+   "type": "word_order",
+   "good": "Ibland tittar jag på tv.",
+   "bad": "Ibland jag tittar på tv."
+  },
+  {
+   "type": "word_order",
+   "good": "Ibland går vi till skolan.",
+   "bad": "Ibland vi går till skolan."
+  },
+  {
+   "type": "word_order",
+   "good": "Ibland spelar vi fotboll.",
+   "bad": "Ibland vi spelar fotboll."
+  },
+  {
+   "type": "word_order",
+   "good": "Idag läser de en bok.",
+   "bad": "Idag de läser en bok."
+  },
+  {
+   "type": "word_order",
+   "good": "Idag skriver han ett brev.",
+   "bad": "Idag han skriver ett brev."
+  },
+  {
+   "type": "word_order",
+   "good": "Idag äter han frukost.",
+   "bad": "Idag han äter frukost."
+  },
+  {
+   "type": "word_order",
+   "good": "Idag arbetar jag hemma.",
+   "bad": "Idag jag arbetar hemma."
+  },
+  {
+   "type": "word_order",
+   "good": "Idag köper jag mat.",
+   "bad": "Idag jag köper mat."
+  },
+  {
+   "type": "word_order",
+   "good": "Idag skriver jag ett brev.",
+   "bad": "Idag jag skriver ett brev."
+  },
+  {
+   "type": "word_order",
+   "good": "Idag arbetar läraren hemma.",
+   "bad": "Idag läraren arbetar hemma."
+  },
+  {
+   "type": "word_order",
+   "good": "Idag dricker läraren kaffe.",
+   "bad": "Idag läraren dricker kaffe."
+  },
+  {
+   "type": "word_order",
+   "good": "Idag äter vi frukost.",
+   "bad": "Idag vi äter frukost."
+  },
+  {
+   "type": "word_order",
+   "good": "Nu skriver barnen ett brev.",
+   "bad": "Nu barnen skriver ett brev."
+  },
+  {
+   "type": "word_order",
+   "good": "Nu dricker de kaffe.",
+   "bad": "Nu de dricker kaffe."
+  },
+  {
+   "type": "word_order",
+   "good": "Nu lagar de middag.",
+   "bad": "Nu de lagar middag."
+  },
+  {
+   "type": "word_order",
+   "good": "Nu går hon till skolan.",
+   "bad": "Nu hon går till skolan."
+  },
+  {
+   "type": "word_order",
+   "good": "Nu köper jag mat.",
+   "bad": "Nu jag köper mat."
+  },
+  {
+   "type": "word_order",
+   "good": "Nu lagar jag middag.",
+   "bad": "Nu jag lagar middag."
+  },
+  {
+   "type": "word_order",
+   "good": "Nu tittar jag på tv.",
+   "bad": "Nu jag tittar på tv."
+  },
+  {
+   "type": "word_order",
+   "good": "Nu går läraren till skolan.",
+   "bad": "Nu läraren går till skolan."
+  },
+  {
+   "type": "word_order",
+   "good": "Nu dricker vi kaffe.",
+   "bad": "Nu vi dricker kaffe."
+  },
+  {
+   "type": "word_order",
+   "good": "Nu tittar vi på tv.",
+   "bad": "Nu vi tittar på tv."
+  },
+  {
+   "type": "word_order",
+   "good": "Ofta läser barnen en bok.",
+   "bad": "Ofta barnen läser en bok."
+  },
+  {
+   "type": "word_order",
+   "good": "Ofta äter barnen frukost.",
+   "bad": "Ofta barnen äter frukost."
+  },
+  {
+   "type": "word_order",
+   "good": "Ofta köper de mat.",
+   "bad": "Ofta de köper mat."
+  },
+  {
+   "type": "word_order",
+   "good": "Ofta läser han en bok.",
+   "bad": "Ofta han läser en bok."
+  },
+  {
+   "type": "word_order",
+   "good": "Ofta köper hon mat.",
+   "bad": "Ofta hon köper mat."
+  },
+  {
+   "type": "word_order",
+   "good": "Ofta går jag till skolan.",
+   "bad": "Ofta jag går till skolan."
+  },
+  {
+   "type": "word_order",
+   "good": "Ofta skriver jag ett brev.",
+   "bad": "Ofta jag skriver ett brev."
+  },
+  {
+   "type": "word_order",
+   "good": "Ofta äter jag frukost.",
+   "bad": "Ofta jag äter frukost."
+  },
+  {
+   "type": "word_order",
+   "good": "Ofta spelar läraren fotboll.",
+   "bad": "Ofta läraren spelar fotboll."
+  },
+  {
+   "type": "word_order",
+   "good": "Ofta dricker vi kaffe.",
+   "bad": "Ofta vi dricker kaffe."
+  },
+  {
+   "type": "word_order",
+   "good": "Ofta skriver vi ett brev.",
+   "bad": "Ofta vi skriver ett brev."
+  },
+  {
+   "type": "word_order",
+   "good": "Sedan spelar barnen fotboll.",
+   "bad": "Sedan barnen spelar fotboll."
+  },
+  {
+   "type": "word_order",
+   "good": "Sedan äter barnen frukost.",
+   "bad": "Sedan barnen äter frukost."
+  },
+  {
+   "type": "word_order",
+   "good": "Sedan skriver de ett brev.",
+   "bad": "Sedan de skriver ett brev."
+  },
+  {
+   "type": "word_order",
+   "good": "Sedan spelar han fotboll.",
+   "bad": "Sedan han spelar fotboll."
+  },
+  {
+   "type": "word_order",
+   "good": "Sedan äter han frukost.",
+   "bad": "Sedan han äter frukost."
+  },
+  {
+   "type": "word_order",
+   "good": "Sedan arbetar hon hemma.",
+   "bad": "Sedan hon arbetar hemma."
+  },
+  {
+   "type": "word_order",
+   "good": "Sedan lagar hon middag.",
+   "bad": "Sedan hon lagar middag."
+  },
+  {
+   "type": "word_order",
+   "good": "Sedan äter jag frukost.",
+   "bad": "Sedan jag äter frukost."
+  },
+  {
+   "type": "word_order",
+   "good": "Sedan läser läraren en bok.",
+   "bad": "Sedan läraren läser en bok."
+  },
+  {
+   "type": "word_order",
+   "good": "Sedan dricker vi kaffe.",
+   "bad": "Sedan vi dricker kaffe."
+  },
+  {
+   "type": "word_order",
+   "good": "Varje dag arbetar barnen hemma.",
+   "bad": "Varje dag barnen arbetar hemma."
+  },
+  {
+   "type": "word_order",
+   "good": "Varje dag går barnen till skolan.",
+   "bad": "Varje dag barnen går till skolan."
+  },
+  {
+   "type": "word_order",
+   "good": "Varje dag skriver barnen ett brev.",
+   "bad": "Varje dag barnen skriver ett brev."
+  },
+  {
+   "type": "word_order",
+   "good": "Varje dag spelar barnen fotboll.",
+   "bad": "Varje dag barnen spelar fotboll."
+  },
+  {
+   "type": "word_order",
+   "good": "Varje dag arbetar de hemma.",
+   "bad": "Varje dag de arbetar hemma."
+  },
+  {
+   "type": "word_order",
+   "good": "Varje dag spelar de fotboll.",
+   "bad": "Varje dag de spelar fotboll."
+  },
+  {
+   "type": "word_order",
+   "good": "Varje dag tittar de på tv.",
+   "bad": "Varje dag de tittar på tv."
+  },
+  {
+   "type": "word_order",
+   "good": "Varje dag skriver han ett brev.",
+   "bad": "Varje dag han skriver ett brev."
+  },
+  {
+   "type": "word_order",
+   "good": "Varje dag tittar hon på tv.",
+   "bad": "Varje dag hon tittar på tv."
+  },
+  {
+   "type": "word_order",
+   "good": "Varje dag går läraren till skolan.",
+   "bad": "Varje dag läraren går till skolan."
+  },
+  {
+   "type": "word_order",
+   "good": "Varje dag tittar vi på tv.",
+   "bad": "Varje dag vi tittar på tv."
+  }
+ ]
+}

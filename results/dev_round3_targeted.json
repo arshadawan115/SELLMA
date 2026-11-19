@@ -1,0 +1,124 @@
+{
+ "round": 3,
+ "rule": "most valid Swedish replies on the 30 practice prompts with the English system prompt; on a tie the weaker and smaller setting is kept",
+ "baseline": {
+  "n": 30,
+  "valid_swedish_pct": 83.33333333333333,
+  "truncated_pct": 83.33333333333333,
+  "clean_swedish_pct": 80.0,
+  "swedish_pct": 83.33333333333333,
+  "edit_markers_per_100w": 0.591715976331361,
+  "heldout_markers_per_100w": 0.4437869822485207,
+  "english_markers_per_100w": 1.7751479289940828,
+  "repetition_pct": 0.43209876543209885,
+  "mean_words": 22.533333333333335,
+  "seconds": 208
+ },
+ "grid": {
+  "baseline": {
+   "n": 30,
+   "valid_swedish_pct": 83.33333333333333,
+   "truncated_pct": 83.33333333333333,
+   "clean_swedish_pct": 80.0,
+   "swedish_pct": 83.33333333333333,
+   "edit_markers_per_100w": 0.591715976331361,
+   "heldout_markers_per_100w": 0.4437869822485207,
+   "english_markers_per_100w": 1.7751479289940828,
+   "repetition_pct": 0.43209876543209885,
+   "mean_words": 22.533333333333335,
+   "seconds": 208
+  },
+  "push_alpha1.0_n1": {
+   "n": 30,
+   "valid_swedish_pct": 96.66666666666667,
+   "truncated_pct": 93.33333333333333,
+   "clean_swedish_pct": 93.33333333333333,
+   "swedish_pct": 96.66666666666667,
+   "edit_markers_per_100w": 0.0,
+   "heldout_markers_per_100w": 0.0,
+   "english_markers_per_100w": 0.7204610951008645,
+   "repetition_pct": 0.600255427841635,
+   "mean_words": 23.133333333333333,
+   "seconds": 132
+  },
+  "push_alpha1.0_n16": {
+   "n": 30,
+   "valid_swedish_pct": 96.66666666666667,
+   "truncated_pct": 86.66666666666667,
+   "clean_swedish_pct": 93.33333333333333,
+   "swedish_pct": 96.66666666666667,
+   "edit_markers_per_100w": 0.0,
+   "heldout_markers_per_100w": 0.0,
+   "english_markers_per_100w": 0.29673590504451036,
+   "repetition_pct": 1.4585175361037428,
+   "mean_words": 22.466666666666665,
+   "seconds": 118
+  },
+  "push_alpha2.0_n1": {
+   "n": 30,
+   "valid_swedish_pct": 100.0,
+   "truncated_pct": 93.33333333333333,
+   "clean_swedish_pct": 96.66666666666667,
+   "swedish_pct": 100.0,
+   "edit_markers_per_100w": 0.0,
+   "heldout_markers_per_100w": 0.0,
+   "english_markers_per_100w": 0.28328611898017,
+   "repetition_pct": 0.3663003663003661,
+   "mean_words": 23.533333333333335,
+   "seconds": 104
+  },
+  "push_alpha2.0_n16": {
+   "n": 30,
+   "valid_swedish_pct": 100.0,
+   "truncated_pct": 90.0,
+   "clean_swedish_pct": 96.66666666666667,
+   "swedish_pct": 100.0,
+   "edit_markers_per_100w": 0.0,
+   "heldout_markers_per_100w": 0.0,
+   "english_markers_per_100w": 0.2812939521800281,
+   "repetition_pct": 0.8275118601205556,
+   "mean_words": 23.7,
+   "seconds": 104
+  }
+ },
+ "edit": {
+  "layer": 14,
+  "neurons": [
+   3659
+  ],
+  "alpha": 2.0,
+  "neuron_stats": {
+   "mean": [
+    0.36945176124572754
+   ],
+   "std": [
+    0.13344541192054749
+   ]
+  },
+  "change_norm": 29.919167020085656,
+  "name": "edit_targeted",
+  "method": "iterative model-feedback optimisation: direction and neurons from activations, three feedback rounds on practice prompts",
+  "tensor": "model.layers.14.mlp.down_proj.weight[:, c]",
+  "update": "W[:, c] += alpha * v / (n * m_c)",
+  "weights_changed": 2048,
+  "share_of_model_pct": 0.00012360801919385323
+ },
+ "confound_check": {
+  "question": "Does the push separate English from Swedish system prompts, or only 'system prompt present' from 'absent'?",
+  "swedish_system_prompt": {
+   "n": 30,
+   "valid_swedish_pct": 100.0,
+   "truncated_pct": 90.0,
+   "clean_swedish_pct": 100.0,
+   "swedish_pct": 100.0,
+   "edit_markers_per_100w": 0.0,
+   "heldout_markers_per_100w": 0.0,
+   "english_markers_per_100w": 0.0,
+   "repetition_pct": 0.9729776396443064,
+   "mean_words": 23.166666666666668
+  },
+  "cosine_main_vs_language_only": 0.39013150334358215,
+  "norm_main": 5.526843547821045,
+  "norm_language_only": 3.826263189315796
+ }
+}

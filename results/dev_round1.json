@@ -1,0 +1,304 @@
+{
+ "rule": "highest share of Swedish replies on the 30 practice prompts with the English system prompt; ties broken by clean-Swedish share; reply length must stay above 80% of baseline",
+ "activation_forward_passes": 60,
+ "practice_generations": 360,
+ "grid": {
+  "baseline": {
+   "n": 30,
+   "clean_swedish_pct": 80.0,
+   "swedish_pct": 83.33333333333333,
+   "edit_markers_per_100w": 0.591715976331361,
+   "heldout_markers_per_100w": 0.4437869822485207,
+   "english_markers_per_100w": 1.7751479289940828,
+   "repetition_pct": 0.43209876543209885,
+   "mean_words": 22.533333333333335
+  },
+  "edit_k32_beta1.0": {
+   "n": 30,
+   "clean_swedish_pct": 73.33333333333333,
+   "swedish_pct": 76.66666666666667,
+   "edit_markers_per_100w": 0.6024096385542169,
+   "heldout_markers_per_100w": 0.45180722891566266,
+   "english_markers_per_100w": 3.1626506024096384,
+   "repetition_pct": 0.38126361655773433,
+   "mean_words": 22.133333333333333,
+   "seconds": 137
+  },
+  "edit_k32_beta2.0": {
+   "n": 30,
+   "clean_swedish_pct": 73.33333333333333,
+   "swedish_pct": 76.66666666666667,
+   "edit_markers_per_100w": 0.6688963210702341,
+   "heldout_markers_per_100w": 0.33444816053511706,
+   "english_markers_per_100w": 3.0100334448160537,
+   "repetition_pct": 2.8606237816764137,
+   "mean_words": 19.933333333333334,
+   "seconds": 122
+  },
+  "edit_k128_beta1.0": {
+   "n": 30,
+   "clean_swedish_pct": 73.33333333333333,
+   "swedish_pct": 76.66666666666667,
+   "edit_markers_per_100w": 0.3067484662576687,
+   "heldout_markers_per_100w": 0.4601226993865031,
+   "english_markers_per_100w": 3.374233128834356,
+   "repetition_pct": 0.9691424044365223,
+   "mean_words": 21.733333333333334,
+   "seconds": 144
+  },
+  "edit_k128_beta2.0": {
+   "n": 30,
+   "clean_swedish_pct": 73.33333333333333,
+   "swedish_pct": 76.66666666666667,
+   "edit_markers_per_100w": 0.6230529595015576,
+   "heldout_markers_per_100w": 0.3115264797507788,
+   "english_markers_per_100w": 3.426791277258567,
+   "repetition_pct": 1.114592035644668,
+   "mean_words": 21.4,
+   "seconds": 153
+  },
+  "edit_k512_beta1.0": {
+   "n": 30,
+   "clean_swedish_pct": 73.33333333333333,
+   "swedish_pct": 76.66666666666667,
+   "edit_markers_per_100w": 0.3125,
+   "heldout_markers_per_100w": 0.46875,
+   "english_markers_per_100w": 3.4375,
+   "repetition_pct": 0.3703703703703705,
+   "mean_words": 21.333333333333332,
+   "seconds": 138
+  },
+  "edit_k512_beta2.0": {
+   "n": 30,
+   "clean_swedish_pct": 66.66666666666667,
+   "swedish_pct": 76.66666666666667,
+   "edit_markers_per_100w": 0.9917355371900827,
+   "heldout_markers_per_100w": 0.3305785123966942,
+   "english_markers_per_100w": 4.297520661157025,
+   "repetition_pct": 0.17543859649122825,
+   "mean_words": 20.166666666666668,
+   "seconds": 123
+  },
+  "steer_layer8_alpha0.5": {
+   "n": 30,
+   "clean_swedish_pct": 80.0,
+   "swedish_pct": 83.33333333333333,
+   "edit_markers_per_100w": 0.29895366218236175,
+   "heldout_markers_per_100w": 0.4484304932735426,
+   "english_markers_per_100w": 3.1390134529147984,
+   "repetition_pct": 0.13888888888888876,
+   "mean_words": 22.3,
+   "seconds": 120
+  },
+  "steer_layer8_alpha1.0": {
+   "n": 30,
+   "clean_swedish_pct": 80.0,
+   "swedish_pct": 83.33333333333333,
+   "edit_markers_per_100w": 0.14792899408284024,
+   "heldout_markers_per_100w": 0.0,
+   "english_markers_per_100w": 3.4023668639053253,
+   "repetition_pct": 0.13888888888888876,
+   "mean_words": 22.533333333333335,
+   "seconds": 139
+  },
+  "steer_layer8_alpha2.0": {
+   "n": 30,
+   "clean_swedish_pct": 76.66666666666667,
+   "swedish_pct": 80.0,
+   "edit_markers_per_100w": 0.4243281471004243,
+   "heldout_markers_per_100w": 0.0,
+   "english_markers_per_100w": 3.536067892503536,
+   "repetition_pct": 0.3317901234567903,
+   "mean_words": 23.566666666666666,
+   "seconds": 130
+  },
+  "steer_layer14_alpha0.5": {
+   "n": 30,
+   "clean_swedish_pct": 90.0,
+   "swedish_pct": 93.33333333333333,
+   "edit_markers_per_100w": 0.14144271570014144,
+   "heldout_markers_per_100w": 0.5657708628005658,
+   "english_markers_per_100w": 1.1315417256011315,
+   "repetition_pct": 0.39446216865571704,
+   "mean_words": 23.566666666666666,
+   "seconds": 117
+  },
+  "steer_layer14_alpha1.0": {
+   "n": 30,
+   "clean_swedish_pct": 93.33333333333333,
+   "swedish_pct": 96.66666666666667,
+   "edit_markers_per_100w": 0.0,
+   "heldout_markers_per_100w": 0.0,
+   "english_markers_per_100w": 0.2958579881656805,
+   "repetition_pct": 0.8905508072174739,
+   "mean_words": 22.533333333333335,
+   "seconds": 119
+  },
+  "steer_layer14_alpha2.0": {
+   "n": 30,
+   "clean_swedish_pct": 100.0,
+   "swedish_pct": 100.0,
+   "edit_markers_per_100w": 0.0,
+   "heldout_markers_per_100w": 0.0,
+   "english_markers_per_100w": 0.0,
+   "repetition_pct": 0.8692057779777078,
+   "mean_words": 23.8,
+   "seconds": 117
+  }
+ },
+ "edit": {
+  "name": "edit_activity_guided",
+  "method": "activation-guided weight editing with a small grid search on practice prompts",
+  "tensor": "model.layers.{layer}.mlp.down_proj.weight[:, column]",
+  "columns": [
+   [
+    19,
+    2597
+   ],
+   [
+    22,
+    2401
+   ],
+   [
+    20,
+    5224
+   ],
+   [
+    17,
+    1921
+   ],
+   [
+    23,
+    1084
+   ],
+   [
+    19,
+    1706
+   ],
+   [
+    23,
+    3700
+   ],
+   [
+    18,
+    5028
+   ],
+   [
+    21,
+    1059
+   ],
+   [
+    15,
+    4544
+   ],
+   [
+    23,
+    1443
+   ],
+   [
+    23,
+    2391
+   ],
+   [
+    23,
+    4268
+   ],
+   [
+    23,
+    5035
+   ],
+   [
+    23,
+    5400
+   ],
+   [
+    23,
+    3523
+   ],
+   [
+    23,
+    2976
+   ],
+   [
+    23,
+    3694
+   ],
+   [
+    23,
+    4295
+   ],
+   [
+    18,
+    1879
+   ],
+   [
+    19,
+    2281
+   ],
+   [
+    23,
+    4875
+   ],
+   [
+    23,
+    4673
+   ],
+   [
+    23,
+    2078
+   ],
+   [
+    23,
+    3230
+   ],
+   [
+    18,
+    199
+   ],
+   [
+    23,
+    2585
+   ],
+   [
+    21,
+    3541
+   ],
+   [
+    23,
+    1273
+   ],
+   [
+    23,
+    4625
+   ],
+   [
+    23,
+    4835
+   ],
+   [
+    23,
+    3273
+   ]
+  ],
+  "columns_per_layer": {
+   "19": 3,
+   "22": 1,
+   "20": 1,
+   "17": 1,
+   "23": 20,
+   "18": 3,
+   "21": 2,
+   "15": 1
+  },
+  "beta": 1.0,
+  "weights_changed": 65536,
+  "share_of_model_pct": 0.003955456614203303,
+  "change_norm": 0.7489001154899597,
+  "column_rule": "largest (activation with English system prompt minus activation without) x (d . W[:, c])"
+ },
+ "steering": {
+  "layer": 14,
+  "alpha": 2.0,
+  "vector": "mean residual without system prompt minus mean residual with English system prompt, after the chosen layer, on practice prompts"
+ }
+}

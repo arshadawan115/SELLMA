@@ -1,0 +1,37 @@
+{
+ "round": 2,
+ "idea": "Same projection edit as round 1, but the direction is taken from activity: per layer, the mean residual with the English system prompt minus the mean residual without it.",
+ "note": "Both settings broke the model (very short, non-Swedish replies). The run was stopped there; the two larger settings (512 neurons) that were planned were not run.",
+ "grid": {
+  "baseline_same_batching": {
+   "n": 30,
+   "clean_swedish_pct": 80.0,
+   "swedish_pct": 83.3,
+   "edit_markers_per_100w": 0.6,
+   "heldout_markers_per_100w": 0.4,
+   "english_markers_per_100w": 1.8,
+   "repetition_pct": 0.4,
+   "mean_words": 22.5
+  },
+  "edit_k128_beta1.0": {
+   "n": 30,
+   "clean_swedish_pct": 6.7,
+   "swedish_pct": 6.7,
+   "edit_markers_per_100w": 0.0,
+   "heldout_markers_per_100w": 0.0,
+   "english_markers_per_100w": 0.0,
+   "repetition_pct": 12.5,
+   "mean_words": 8.4
+  },
+  "edit_k128_beta2.0": {
+   "n": 30,
+   "clean_swedish_pct": 23.3,
+   "swedish_pct": 23.3,
+   "edit_markers_per_100w": 0.0,
+   "heldout_markers_per_100w": 0.0,
+   "english_markers_per_100w": 0.0,
+   "repetition_pct": 2.5,
+   "mean_words": 2.6
+  }
+ }
+}

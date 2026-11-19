@@ -1,0 +1,354 @@
+[
+ {
+  "condition": "baseline",
+  "label": "Unchanged model",
+  "valid_swedish_pct": 85.0,
+  "valid_ci": [
+   75.0,
+   93.33333333333333
+  ],
+  "change_points": 0.0,
+  "change_ci": [
+   0.0,
+   0.0
+  ],
+  "swedish_pct": 85.0,
+  "mean_words": 24.7,
+  "truncated_pct": 96.66666666666667,
+  "repetition_pct": 1.2770542728876066,
+  "knowledge_pct": 55.0,
+  "knowledge_ci": [
+   40.0,
+   70.0
+  ],
+  "knowledge_change_points": 0.0,
+  "knowledge_change_ci": [
+   0.0,
+   0.0
+  ],
+  "general_pct": 50.0,
+  "grammar_pct": 96.66666666666667,
+  "no_system_swedish_pct": 100.0,
+  "english_users_english_pct": 100.0
+ },
+ {
+  "condition": "swedish_prompt",
+  "label": "Told to answer in Swedish",
+  "valid_swedish_pct": 100.0,
+  "valid_ci": [
+   100.0,
+   100.0
+  ],
+  "change_points": 15.0,
+  "change_ci": [
+   6.666666666666667,
+   25.0
+  ],
+  "swedish_pct": 100.0,
+  "mean_words": 23.55,
+  "truncated_pct": 96.66666666666667,
+  "repetition_pct": 1.2723432886857755,
+  "knowledge_pct": 52.5,
+  "knowledge_ci": [
+   37.5,
+   67.5
+  ],
+  "knowledge_change_points": -2.5,
+  "knowledge_change_ci": [
+   -15.0,
+   10.0
+  ],
+  "general_pct": 35.0,
+  "grammar_pct": 96.66666666666667,
+  "no_system_swedish_pct": 100.0,
+  "english_users_english_pct": 30.0
+ },
+ {
+  "condition": "edit_targeted",
+  "label": "Targeted weight edit",
+  "valid_swedish_pct": 96.66666666666667,
+  "valid_ci": [
+   91.66666666666666,
+   100.0
+  ],
+  "change_points": 11.666666666666666,
+  "change_ci": [
+   1.6666666666666667,
+   21.666666666666668
+  ],
+  "swedish_pct": 100.0,
+  "mean_words": 25.25,
+  "truncated_pct": 98.33333333333333,
+  "repetition_pct": 3.593922080919759,
+  "knowledge_pct": 40.0,
+  "knowledge_ci": [
+   25.0,
+   55.00000000000001
+  ],
+  "knowledge_change_points": -15.0,
+  "knowledge_change_ci": [
+   -27.500000000000004,
+   -5.0
+  ],
+  "general_pct": 50.0,
+  "grammar_pct": 96.25,
+  "no_system_swedish_pct": 95.0,
+  "english_users_english_pct": 100.0
+ },
+ {
+  "condition": "random_edit_1",
+  "label": "Random edit, seed 1",
+  "valid_swedish_pct": 98.33333333333333,
+  "valid_ci": [
+   95.0,
+   100.0
+  ],
+  "change_points": 13.333333333333334,
+  "change_ci": [
+   5.0,
+   21.666666666666668
+  ],
+  "swedish_pct": 100.0,
+  "mean_words": 21.783333333333335,
+  "truncated_pct": 95.0,
+  "repetition_pct": 2.6673856301413847,
+  "knowledge_pct": 47.5,
+  "knowledge_ci": [
+   32.5,
+   62.5
+  ],
+  "knowledge_change_points": -7.5,
+  "knowledge_change_ci": [
+   -20.0,
+   5.0
+  ],
+  "general_pct": 40.0,
+  "grammar_pct": 96.66666666666667,
+  "no_system_swedish_pct": 100.0,
+  "english_users_english_pct": 100.0
+ },
+ {
+  "condition": "random_edit_2",
+  "label": "Random edit, seed 2",
+  "valid_swedish_pct": 95.0,
+  "valid_ci": [
+   88.33333333333333,
+   100.0
+  ],
+  "change_points": 10.0,
+  "change_ci": [
+   3.3333333333333335,
+   18.333333333333332
+  ],
+  "swedish_pct": 95.0,
+  "mean_words": 23.866666666666667,
+  "truncated_pct": 98.33333333333333,
+  "repetition_pct": 1.0826046597976424,
+  "knowledge_pct": 50.0,
+  "knowledge_ci": [
+   35.0,
+   65.0
+  ],
+  "knowledge_change_points": -5.0,
+  "knowledge_change_ci": [
+   -17.5,
+   7.5
+  ],
+  "general_pct": 50.0,
+  "grammar_pct": 97.5,
+  "no_system_swedish_pct": 100.0,
+  "english_users_english_pct": 100.0
+ },
+ {
+  "condition": "random_edit_3",
+  "label": "Random edit, seed 3",
+  "valid_swedish_pct": 80.0,
+  "valid_ci": [
+   70.0,
+   90.0
+  ],
+  "change_points": -5.0,
+  "change_ci": [
+   -13.333333333333334,
+   3.3333333333333335
+  ],
+  "swedish_pct": 83.33333333333333,
+  "mean_words": 24.866666666666667,
+  "truncated_pct": 93.33333333333333,
+  "repetition_pct": 0.7031150277527093,
+  "knowledge_pct": 50.0,
+  "knowledge_ci": [
+   35.0,
+   65.0
+  ],
+  "knowledge_change_points": -5.0,
+  "knowledge_change_ci": [
+   -12.5,
+   0.0
+  ],
+  "general_pct": 45.0,
+  "grammar_pct": 96.66666666666667,
+  "no_system_swedish_pct": 100.0,
+  "english_users_english_pct": 100.0
+ },
+ {
+  "condition": "random_edit_4",
+  "label": "Random edit, seed 4 (added)",
+  "valid_swedish_pct": 95.0,
+  "valid_ci": [
+   88.33333333333333,
+   100.0
+  ],
+  "change_points": 10.0,
+  "change_ci": [
+   1.6666666666666667,
+   18.333333333333332
+  ],
+  "swedish_pct": 95.0,
+  "mean_words": 24.3,
+  "truncated_pct": 100.0,
+  "repetition_pct": 1.9937098455405091,
+  "knowledge_pct": 45.0,
+  "knowledge_ci": [
+   30.0,
+   60.0
+  ],
+  "knowledge_change_points": -10.0,
+  "knowledge_change_ci": [
+   -22.5,
+   0.0
+  ],
+  "general_pct": 55.0,
+  "grammar_pct": 97.5,
+  "no_system_swedish_pct": 95.0,
+  "english_users_english_pct": 100.0
+ },
+ {
+  "condition": "random_edit_5",
+  "label": "Random edit, seed 5 (added)",
+  "valid_swedish_pct": 91.66666666666667,
+  "valid_ci": [
+   85.0,
+   98.33333333333333
+  ],
+  "change_points": 6.666666666666667,
+  "change_ci": [
+   0.0,
+   15.0
+  ],
+  "swedish_pct": 93.33333333333333,
+  "mean_words": 24.766666666666666,
+  "truncated_pct": 100.0,
+  "repetition_pct": 2.0952578883369686,
+  "knowledge_pct": 47.5,
+  "knowledge_ci": [
+   32.5,
+   62.5
+  ],
+  "knowledge_change_points": -7.5,
+  "knowledge_change_ci": [
+   -17.5,
+   0.0
+  ],
+  "general_pct": 45.0,
+  "grammar_pct": 97.08333333333333,
+  "no_system_swedish_pct": 100.0,
+  "english_users_english_pct": 100.0
+ },
+ {
+  "condition": "random_edit_6",
+  "label": "Random edit, seed 6 (added)",
+  "valid_swedish_pct": 65.0,
+  "valid_ci": [
+   53.333333333333336,
+   76.66666666666667
+  ],
+  "change_points": -20.0,
+  "change_ci": [
+   -31.666666666666664,
+   -10.0
+  ],
+  "swedish_pct": 75.0,
+  "mean_words": 23.55,
+  "truncated_pct": 80.0,
+  "repetition_pct": 1.1330642787164524,
+  "knowledge_pct": 47.5,
+  "knowledge_ci": [
+   32.5,
+   62.5
+  ],
+  "knowledge_change_points": -7.5,
+  "knowledge_change_ci": [
+   -20.0,
+   5.0
+  ],
+  "general_pct": 50.0,
+  "grammar_pct": 97.5,
+  "no_system_swedish_pct": 100.0,
+  "english_users_english_pct": 100.0
+ },
+ {
+  "condition": "steering",
+  "label": "Steering while running (extra)",
+  "valid_swedish_pct": 98.33333333333333,
+  "valid_ci": [
+   95.0,
+   100.0
+  ],
+  "change_points": 13.333333333333334,
+  "change_ci": [
+   3.3333333333333335,
+   23.333333333333332
+  ],
+  "swedish_pct": 100.0,
+  "mean_words": 24.95,
+  "truncated_pct": 98.33333333333333,
+  "repetition_pct": 3.664574094441043,
+  "knowledge_pct": 40.0,
+  "knowledge_ci": [
+   25.0,
+   55.00000000000001
+  ],
+  "knowledge_change_points": -15.0,
+  "knowledge_change_ci": [
+   -27.500000000000004,
+   -5.0
+  ],
+  "general_pct": 50.0,
+  "grammar_pct": 96.66666666666667,
+  "no_system_swedish_pct": 95.0,
+  "english_users_english_pct": 100.0
+ },
+ {
+  "condition": "edit_weights_only",
+  "label": "Weights-only edit (extra)",
+  "valid_swedish_pct": 83.33333333333333,
+  "valid_ci": [
+   73.33333333333333,
+   91.66666666666666
+  ],
+  "change_points": -1.6666666666666667,
+  "change_ci": [
+   -5.0,
+   0.0
+  ],
+  "swedish_pct": 85.0,
+  "mean_words": 23.8,
+  "truncated_pct": 91.66666666666667,
+  "repetition_pct": 0.5659300494826811,
+  "knowledge_pct": 52.5,
+  "knowledge_ci": [
+   37.5,
+   67.5
+  ],
+  "knowledge_change_points": -2.5,
+  "knowledge_change_ci": [
+   -7.5,
+   0.0
+  ],
+  "general_pct": 50.0,
+  "grammar_pct": 96.66666666666667,
+  "no_system_swedish_pct": 100.0,
+  "english_users_english_pct": 100.0
+ }
+]
